@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B6CC1B32AD7E7FC00716E3C /* ActivtyPage1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6CC1B22AD7E7FC00716E3C /* ActivtyPage1.swift */; };
+		0B6CC1B52AD7E81F00716E3C /* ActiftyPage2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6CC1B42AD7E81F00716E3C /* ActiftyPage2.swift */; };
 		4348DE3D2AD7E46000847E02 /* jadwallaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4348DE3C2AD7E46000847E02 /* jadwallaApp.swift */; };
 		4348DE3F2AD7E46000847E02 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4348DE3E2AD7E46000847E02 /* ContentView.swift */; };
 		4348DE412AD7E46200847E02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4348DE402AD7E46200847E02 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B6CC1B22AD7E7FC00716E3C /* ActivtyPage1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivtyPage1.swift; sourceTree = "<group>"; };
+		0B6CC1B42AD7E81F00716E3C /* ActiftyPage2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActiftyPage2.swift; sourceTree = "<group>"; };
 		4348DE392AD7E46000847E02 /* jadwalla.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = jadwalla.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4348DE3C2AD7E46000847E02 /* jadwallaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jadwallaApp.swift; sourceTree = "<group>"; };
 		4348DE3E2AD7E46000847E02 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 				4348DE3E2AD7E46000847E02 /* ContentView.swift */,
 				4348DE402AD7E46200847E02 /* Assets.xcassets */,
 				4348DE422AD7E46200847E02 /* Preview Content */,
+				0B6CC1B22AD7E7FC00716E3C /* ActivtyPage1.swift */,
+				0B6CC1B42AD7E81F00716E3C /* ActiftyPage2.swift */,
 			);
 			path = jadwalla;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B6CC1B52AD7E81F00716E3C /* ActiftyPage2.swift in Sources */,
 				4348DE3F2AD7E46000847E02 /* ContentView.swift in Sources */,
+				0B6CC1B32AD7E7FC00716E3C /* ActivtyPage1.swift in Sources */,
 				4348DE3D2AD7E46000847E02 /* jadwallaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
